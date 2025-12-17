@@ -1,7 +1,7 @@
 In general, drivers who accept bar coupons seem to be more socially active bar-goers(>1 per month) in relatively unconstrained conditions (no kids) and younger
 
 Bar going frequency and age: 
-Based on the results, acceptance is higher among drivers who report going tobars more often than among those who rarely never go. When we further restrict to "bar more than once a month and age under 30", the acceptance rate increases relative to all other drivers, suggesting younger, frequent bar goers are more responsive to bar coupons.
+Based on the results, acceptance is higher among drivers who report going to bars more often than among those who rarely never go. When we further restrict to "bar more than once a month and age under 30", the acceptance rate increases relative to all other drivers, suggesting younger, frequent bar goers are more responsive to bar coupons.
 
 Passengers and family context: 
 When comparing bar coupon acceptance with different passengers, scenarios with friends or partner tend to show higher acceptance than those with kids. The segment “bar more than once a month, no kid passengers, and not widowed” showed higher acceptance than the complement group, reinforcing that adult social contexts (and non-bereaved marital status) align with a greater likelihood of using a bar coupon
