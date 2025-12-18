@@ -26,4 +26,6 @@ Frequent coffee-house visitors have noticeably higher acceptance, but many Coffe
 **Time of Day and Passenger Context**
  Coffee seems to works best in the morning with friends/alone, not in the evening or with kids”. Many Coffee House coupons are at 2PM/6PM or with kids, that can contribute to the lower rate.
 
-# For more detailed analysis, results, actionable items and recommendations have a look at the prompt.ipynb notebook and the corresponding images in the images folder
+<span style="background-color: yellow;">**For more detailed analysis, results, actionable items and recommendations have a look at the prompt.ipynb notebook and the corresponding images in the images folder**</span> 
+
+
