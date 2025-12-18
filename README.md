@@ -3,6 +3,8 @@ In this analysis Coupon type volume distribution and their acceptance rates have
 The idea is to determine if a coupn type will be accepted or rejected for a particular given scenario. This ofcourse will be different for each coupon category and so, investigation across each coupon category should be carried out.
 The Bars category has been first assessed as per assignment format after which the Coffee House category has been independently investigated.
 
+**For more detailed analysis, results, actionable items and recommendations have a look at the prompt.ipynb notebook and the corresponding images in the images folder**
+
 # Bars Coupon Acceptance:
 
 In general, drivers who accept bar coupons seem to be more socially active bar-goers(>1 per month) in relatively unconstrained conditions (no kids) and younger
@@ -26,6 +28,5 @@ Frequent coffee-house visitors have noticeably higher acceptance, but many Coffe
 **Time of Day and Passenger Context**
  Coffee seems to works best in the morning with friends/alone, not in the evening or with kids”. Many Coffee House coupons are at 2PM/6PM or with kids, that can contribute to the lower rate.
 
-<span style="background-color: yellow;">**For more detailed analysis, results, actionable items and recommendations have a look at the prompt.ipynb notebook and the corresponding images in the images folder**</span> 
 
 
